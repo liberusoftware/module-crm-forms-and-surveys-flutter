@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-forms-and-surveys-flutter",
+  "capabilityKey": "liberusoftware/module-crm-forms-and-surveys",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_forms_and_surveys_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/forms-and-surveys.md",
+  "presentationPlan": "projects/crm/flutter/forms-and-surveys.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
